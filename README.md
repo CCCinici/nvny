@@ -1,8 +1,8 @@
 # nvny
 NVNY Projesinin Dökümantasyonu ( TR )
 
--NVNY tamamen kişisel bir girişimdir. Herhangi bir ekip, grup, şirket, vakıf, çete ile ilişiği yoktur.
--Aklınıza ilk gelenin aksine NVNY açılımı o değil. Siz bunu hiç bir zaman öğrenemeyeceksiniz.
+#NVNY tamamen kişisel bir girişimdir. Herhangi bir ekip, grup, şirket, vakıf, çete ile ilişiği yoktur.
+#Aklınıza ilk gelenin aksine NVNY açılımı o değil. Siz bunu hiç bir zaman öğrenemeyeceksiniz.
 -Potansiyelinin fark edelipte, hedefe yönelik niş bir proje olarak düşünülmedi.
 -Aksine bir eksikliği fark edip, bunu düzeltmeye yönelik ortaya çıktı.
 -Kurumsal ağızdan uzak, bir arkadaş ortamında bulunuyormuşçasına eğlenerek öğrenmenin peşindeyim.
